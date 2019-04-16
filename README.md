@@ -9,9 +9,12 @@ C:\Resources
 
 
 
-![alt text](https://raw.githubusercontent.com/MinaWagdi/A-Mazing-Game/master/Resources/Screenshot_6.png)
+![alt text](https://github.com/MinaWagdi/A-Mazing-Game/blob/master/Resources/Screenshot_6.png)
 
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
 
