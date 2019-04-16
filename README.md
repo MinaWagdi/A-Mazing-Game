@@ -7,13 +7,13 @@ C:\
 So that it’s new path would be
 C:\Resources
 
-
+## Screenshot:
 
 ![alt text](https://github.com/MinaWagdi/A-Mazing-Game/blob/master/Resources/Screenshot_6.png)
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
 
