@@ -6,3 +6,8 @@ Please put the "Resouces" folder in the path :
 C:\
 So that it’s new path would be
 C:\Resources
+
+
+
+![alt text](https://raw.githubusercontent.com/MinaWagdi/A-Mazing-Game/master/Resources/Screenshot_6.png)
+
