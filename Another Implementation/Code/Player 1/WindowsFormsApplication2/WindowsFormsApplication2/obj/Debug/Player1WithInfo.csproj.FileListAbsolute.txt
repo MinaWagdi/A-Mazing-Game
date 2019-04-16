@@ -1,0 +1,27 @@
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Player1.resources
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Player1WithInfo.csproj.GenerateResource.Cache
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\mysho3'l3\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Player1WithInfo.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Player1WithInfo.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Player1.resources
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\monster move 2\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Player1WithInfo.csproj.GenerateResource.Cache
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Player1WithInfo.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Player1.resources
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mina\Documents\ASU\sophomore\training C#\project\final 1\2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Player1WithInfo.csproj.GenerateResource.Cache
